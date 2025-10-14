@@ -79,7 +79,7 @@ python pig_latin_program.py
 👨‍💻 Author
 Daniel Adeoluwa Ademoye
 👨‍💻Software Engineer and Ethical Hacker
-🌐 [LinkedIn](www.linkedin.com/in/daniel-ademoye-a05a56305) • [GitHub](https://github.com/Ade20boss) • [Threads](https://www.threads.com/@danieladeoluwaademoye)
+🌐[LinkedIn](www.linkedin.com/in/daniel-ademoye-a05a56305) • [GitHub](https://github.com/Ade20boss) • [Threads](https://www.threads.com/@danieladeoluwaademoye)
 
 ---
 📜License
