@@ -49,9 +49,11 @@ Ellohay orldway!
 ---
 
 🗂️ Project Structure
+```
 pig-latin-translator/
 ├── pig_latin.py       # Main program file
 └── README.md          # Project documentation
+```
 ---
 
 ⚙️ Requirements
